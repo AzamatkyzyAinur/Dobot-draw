@@ -25,4 +25,4 @@ This project uses a Dobot robotic arm to draw contours from images. Follow the s
 - Only use clear black-and-white images with well-defined contours.
 - If any issue arises during execution, stop the robot immediately to avoid damage.
 
----
+
